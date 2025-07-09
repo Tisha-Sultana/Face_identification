@@ -1,4 +1,4 @@
 # .gitignore
 *.jpg
-dataset/
+datasets/
 training_images/
